@@ -4,6 +4,9 @@ const User = () => {
   return (
     <div>
       <h2>User777</h2>
+      <h2>User777</h2>
+      <h2>User777</h2>
+      <h2>User777</h2>
     </div>
   );
 };
