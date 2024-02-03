@@ -4,6 +4,11 @@ const Post = () => {
   return (
     <div>
       <h3>Post</h3>
+      <h3>Post</h3>
+      <h3>Post</h3>
+      <h3>Post</h3>
+      <h3>Post</h3>
+      <h3>Post</h3>
     </div>
   );
 };
